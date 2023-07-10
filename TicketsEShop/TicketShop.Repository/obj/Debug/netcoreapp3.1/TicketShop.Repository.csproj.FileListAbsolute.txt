@@ -1,0 +1,12 @@
+C:\Users\Andjela\source\repos\TicketsEShop\TicketShop.Repository\bin\Debug\netcoreapp3.1\TicketShop.Repository.deps.json
+C:\Users\Andjela\source\repos\TicketsEShop\TicketShop.Repository\bin\Debug\netcoreapp3.1\TicketShop.Repository.dll
+C:\Users\Andjela\source\repos\TicketsEShop\TicketShop.Repository\bin\Debug\netcoreapp3.1\TicketShop.Repository.pdb
+C:\Users\Andjela\source\repos\TicketsEShop\TicketShop.Repository\bin\Debug\netcoreapp3.1\TicketShop.Domain.dll
+C:\Users\Andjela\source\repos\TicketsEShop\TicketShop.Repository\bin\Debug\netcoreapp3.1\TicketShop.Domain.pdb
+C:\Users\Andjela\source\repos\TicketsEShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.csproj.AssemblyReference.cache
+C:\Users\Andjela\source\repos\TicketsEShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.AssemblyInfoInputs.cache
+C:\Users\Andjela\source\repos\TicketsEShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.AssemblyInfo.cs
+C:\Users\Andjela\source\repos\TicketsEShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Andjela\source\repos\TicketsEShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.csproj.CopyComplete
+C:\Users\Andjela\source\repos\TicketsEShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.dll
+C:\Users\Andjela\source\repos\TicketsEShop\TicketShop.Repository\obj\Debug\netcoreapp3.1\TicketShop.Repository.pdb
